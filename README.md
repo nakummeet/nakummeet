@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=24,20,14,11&section=header&text=Meet%20Nakum&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00add8&size=28&center=true&vCenter=true&width=1000&lines=Flutter+%26+Node.js+Developer;Building+SweetBite+%F0%9F%8D%B0+%26+LocalBites+%F0%9F%8D%94;Clean+code.+Beautiful+UI.+Fast+API.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00add8&size=28&center=true&vCenter=true&width=1000&lines=Hey!+I+am+Meet+Nakum+%F0%9F%91%8B;Flutter+%26+Node.js+Developer;I+build+beautiful+apps+%F0%9F%92%99;Always+learning%2C+always+growing+%F0%9F%9A%80;Code+%7C+Create+%7C+Contribute+%E2%9C%A8)](https://git.io/typing-svg)
 
 ---
 
@@ -24,7 +24,7 @@
   "name"      : "Meet Nakum",
   "role"      : "Flutter & Node.js Developer",
   "available" : true,
-  "building"  : ["SweetBite 🍰", "LocalBites Backend 🍔"],
+  "building"  : ["AICodeBridge (vscode extension)","Exercise APP 🏋️", "LocalBites Backend 🍔"],
   "fun_facts" : ["console.log debugger 😄", "Coffee-driven dev ☕", "Dark mode only 🌙"]
 }
 ```
@@ -67,25 +67,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nakummeet&custom_title=Meet%27s%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=151515&color=00add8&line=ffffff&point=f3e35b&area=true" alt="GitHub Activity Graph" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/nakummeet/SweetBite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nakummeet&repo=SweetBite&theme=github_dark&border_radius=12&border_color=00add8&icon_color=00add8" />
-  </a>
-  <a href="https://github.com/nakummeet/DE-exercise-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nakummeet&repo=DE-exercise-&theme=github_dark&border_radius=12&border_color=00add8&icon_color=00add8" />
-  </a>
-  <a href="https://github.com/nakummeet/localbites-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nakummeet&repo=localbites-backend&theme=github_dark&border_radius=12&border_color=00add8&icon_color=00add8" />
-  </a>
-  <a href="https://github.com/nakummeet/de-backend-exercise-app-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nakummeet&repo=de-backend-exercise-app-&theme=github_dark&border_radius=12&border_color=00add8&icon_color=00add8" />
-  </a>
-</div>
 
 ---
 
