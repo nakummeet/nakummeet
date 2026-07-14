@@ -9,7 +9,6 @@
     <img src="./information.svg" alt="Meet Nakum GitHub Profile" />
   </a>
 </div>
-
 <br/>
 
 ## 🧑‍💻 About Me
@@ -56,12 +55,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nakummeet&theme=github_dark" />
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nakummeet&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakummeet&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nakummeet&show_icons=true&theme=dark&hide_border=true&bg_color=151515&title_color=00add8&icon_color=00add8&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakummeet&layout=compact&theme=dark&hide_border=true&bg_color=151515&title_color=00add8&text_color=ffffff" />
 </p>
 
 <p align="center">
@@ -98,4 +93,5 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=nakummeet&color=00add8&style=flat-square&label=Profile+Views)
 
 </div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=24,20,14,11&section=footer"/>
